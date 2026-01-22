@@ -384,5 +384,6 @@ For issues, questions, or suggestions:
 3. Create detailed issue with reproduction steps
 
 ---
+## [Check out (video)](https://drive.google.com/drive/folders/1PFPXyENMj1eF1E3IxZqcCzO1M6a2s1Bp)
 
 **Built with  using Django, React, and clean code principles**
